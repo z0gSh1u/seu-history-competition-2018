@@ -16,7 +16,7 @@ INSERT INTO `xsxqsql` VALUES ('00000000', '111111111', '0', '-1', '0', '李四',
 -- Records of xsxqsql_ls
 -- ----------------------------
 /* Params: <Username> <Nickname> <Password> <AcademyNo> */
-INSERT INTO `xsxqsql_ls` VALUES ('fdy04', '辅导员', 'TXANBH', '04');
+INSERT INTO `xsxqsql_ls` VALUES ('fdy00', '辅导员', '123456', '00');
 
 -- ----------------------------
 -- Records of xsxqsql_tf
