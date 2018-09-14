@@ -1,0 +1,4 @@
+部署指南-2.0勘误：
+
+1、Ubuntu 18.04 Server下的MySQL配置文件应为 /etc/mysql/mysql.conf.d/mysqld.cnf，原文错写为mysqld.conf。
+2、将所有文件设为777权限是不安全的。可以根据需要设置755权限。

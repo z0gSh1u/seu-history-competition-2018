@@ -1,0 +1,32 @@
+{
+	"academies": [
+	{"number":"01", "academy": "建筑学院"},
+	{"number":"02", "academy": "机械工程学院"},
+	{"number":"03", "academy": "能源与环境学院"},
+	{"number":"04", "academy": "信息科学与工程学院"},
+	{"number":"05", "academy": "土木工程学院"},
+	{"number":"06", "academy": "电子科学与工程学院"},
+	{"number":"07", "academy": "数学学院"},
+	{"number":"08", "academy": "自动化学院"},
+	{"number":"09", "academy": "计算机科学与工程学院"},
+	{"number":"10", "academy": "物理学院"},
+	{"number":"11", "academy": "生物科学与医学工程学院"},
+	{"number":"12", "academy": "材料科学与工程学院"},
+	{"number":"13", "academy": "人文学院"},
+	{"number":"14", "academy": "经济管理学院"},
+	{"number":"15", "academy": "马克思主义学院"},
+	{"number":"16", "academy": "电气工程学院"},
+	{"number":"17", "academy": "外国语学院"},
+	{"number":"19", "academy": "化学化工学院"},
+	{"number":"21", "academy": "交通学院"},
+	{"number":"22", "academy": "仪器科学与工程学院"},
+	{"number":"24", "academy": "艺术学院"},
+	{"number":"25", "academy": "法学院"},
+	{"number":"41", "academy": "医学院1"},
+	{"number":"42", "academy": "公共卫生学院"},
+	{"number":"43", "academy": "医学院2"},
+	{"number":"57", "academy": "网络空间安全学院"},
+	{"number":"61", "academy": "吴健雄学院"},
+	{"number":"71", "academy": "软件学院"}
+	]
+}

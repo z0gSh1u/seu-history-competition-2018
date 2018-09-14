@@ -1,0 +1,129 @@
+body {
+	background-color: darkolivegreen;
+}
+
+.banner {
+	background: url(../img/inans-banner.png);
+	height: 130px;
+	white-space: nowrap;
+	position: relative;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+.bannertext {
+	color: white;
+	display: inline-block;
+	font-size: xx-large;
+	position: absolute;
+	right: 12px;
+	bottom: 0px;
+	font-weight: bold;
+}
+
+.question {
+	position: relative;
+}
+
+.questioncontianer {
+	opacity: 0.9;
+	position: absolute;
+	left: 40px;
+	top: 23px;
+	background-color: white;
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-size: 35%;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	width: 50%;
+	display: table-cell;
+
+	height: 532px;
+}
+
+.userinfo {
+	color: white;
+	text-align: right;
+	margin: 10px 10px 10px 10px;
+}
+
+.questiontext {
+	font-weight: bold;
+	margin: 60px 35% 60px 60px;
+	line-height: 42px;
+}
+
+.questionselset {
+	margin: 60px auto 30px 100px;
+	list-style: none;
+}
+
+.questionselitem {
+	margin: 20px auto 10px auto;
+	font-size: large;
+}
+
+.twobutton {
+	text-align: right;
+	margin: auto 20px auto auto;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.questioncontrol {
+	opacity: 0.9;
+	position: absolute;
+	right: 40px;
+	top: 23px;
+	background-color: white;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	width: 41%;
+	display: table-cell;
+
+	height: 532px;
+}
+
+.quesctrlinside {
+	margin: 20px auto 20px 20px;
+}
+
+.quebtn {
+	border-radius: 18px;
+	font-size: medium;
+	margin: 0px 7px 17px 8px;
+	width: 36px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.quectrltext {
+	font-weight: bold;
+	font-size: medium;
+	margin: auto auto auto auto;
+}
+
+input[type='radio'] {
+	margin: 3px 8px 0px 0px;
+}
+
+.rdo {
+	width: 20px;
+	height: 20px;
+	background-color: #000000;
+	border-radius: 50%;
+	vertical-align: middle;
+}
+
+.rdo:before,
+.rdo:after {
+	content: '';
+	display: inherit;
+	border-radius: 50%;
+}
