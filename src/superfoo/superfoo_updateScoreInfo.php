@@ -5,7 +5,7 @@
 // 3. get db access right
 
 error_reporting(0);
-define("DBACCESS_uQBX2boXK24YSD", "5wv84Upxj0ASiUR3xTn8IX");
+define("DBACCESS", "5wv84Upxj0ASiUR3xTn8IX");
 include 'safe_token_api.php';
 $sess_name = session_name();
 if (session_start())
