@@ -6,7 +6,7 @@
 **数据库：** MySQL
 
 ##### 部署
-　　`docs/部署指南-2.0.pdf`提供了*from-scratch*程度的在Ubuntu 18.04下的部署过程。
+　　`docs/部署指南-2.0.pdf`提供了*from-scratch*程度的在Ubuntu 18.04下的部署过程。<br>
 　　若您已经部署好传统的LAMP/WAMP环境，只需复制-粘贴`src/`下的文件到本机的对应位置，并完成`src/config.conf`的配置即可。
 
 ##### 题目添加
